@@ -1,0 +1,154 @@
+{
+ "frames": {
+  "slime": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 10
+   }
+  },
+  "slime_red": {
+   "frame": {
+    "x": 17,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 10
+   }
+  },
+  "slime_blue": {
+   "frame": {
+    "x": 34,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 10
+   }
+  },
+  "slime_wink": {
+   "frame": {
+    "x": 51,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 16,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 16,
+    "h": 10
+   }
+  },
+  "heart": {
+   "frame": {
+    "x": 0,
+    "y": 11,
+    "w": 9,
+    "h": 9
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 9,
+    "h": 9
+   },
+   "sourceSize": {
+    "w": 9,
+    "h": 9
+   }
+  },
+  "coin": {
+   "frame": {
+    "x": 10,
+    "y": 11,
+    "w": 10,
+    "h": 10
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 10,
+    "h": 10
+   },
+   "sourceSize": {
+    "w": 10,
+    "h": 10
+   }
+  },
+  "chest": {
+   "frame": {
+    "x": 21,
+    "y": 11,
+    "w": 18,
+    "h": 14
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 18,
+    "h": 14
+   },
+   "sourceSize": {
+    "w": 18,
+    "h": 14
+   }
+  }
+ },
+ "meta": {
+  "app": "pxl-lite",
+  "image": "chars.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 67,
+   "h": 25
+  },
+  "scale": "1"
+ }
+}

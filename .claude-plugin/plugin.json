@@ -1,0 +1,6 @@
+{
+  "name": "pxl-lite",
+  "description": "Draw game-ready pixel art as code: sprites, recolors and sprite sheets from one JavaScript file, no install.",
+  "version": "0.1.0",
+  "author": { "name": "Dodai0419" }
+}

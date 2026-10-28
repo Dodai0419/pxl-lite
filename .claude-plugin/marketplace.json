@@ -1,0 +1,5 @@
+{
+  "name": "pxl-lite",
+  "owner": { "name": "Dodai0419" },
+  "plugins": [{ "name": "pxl-lite", "source": "./", "description": "Draw game-ready pixel art as code: sprites, recolors and sprite sheets from one JavaScript file, no install." }]
+}

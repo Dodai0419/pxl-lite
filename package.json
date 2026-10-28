@@ -1,0 +1,10 @@
+{
+  "name": "pxl-lite",
+  "version": "0.1.0",
+  "description": "Draw game-ready pixel art as code: sprites, recolors and sprite sheets from one JavaScript file, no install.",
+  "type": "module",
+  "bin": { "pxl-lite": "./pxl-lite.mjs" },
+  "scripts": { "test": "node --test test/pxl-lite.test.mjs" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

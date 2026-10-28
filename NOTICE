@@ -1,0 +1,9 @@
+pxl-lite ports the sprite core of crsolver/claude-pxl (MIT License, Copyright (c) 2026 crsolver):
+the DSL names (use, pal, sprite, sheet, px, rect, box, line, circ, ring, ellipse, poly, fill, dither,
+clip, grid), palette resolution, the pico8 and sweetie16 palettes, mirror/outline/swap/flip/rot/crop,
+shape rasterizers, Bayer dither, shelf sheet packing, TexturePacker JSON and the preview style.
+The tests reuse claude-pxl's test cases and expected outputs. examples/basics.px.js is adapted
+from claude-pxl's examples/basics.px.js and examples/slime.px.js is its README quick start.
+Changes: one plain-JavaScript file instead of TypeScript sources (runs without Node's type
+stripping); layers, scenes, animation/GIF, stamps, tiles, lighting, ramps, text and the live viewer
+are left out.
